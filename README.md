@@ -25,3 +25,5 @@ V, Các kỹ thuật sử dụng:
 - Lập trình hướng đối tượng.
 
 - Các kỹ thuật xử lý vector, mảng, class.
+
+- Các kỹ thuật lập trình cơ bản khác.
